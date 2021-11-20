@@ -23,7 +23,7 @@ Result: odds win the battle with 4-1
 
 ## Worl Bits War
 
-Variation of this nice kata, the war has expanded and become dirtier and meaner; both even and odd numbers will fight with their pointy 1s. And negative integers are coming into play as well, with, ça va sans dire, a negative contribution (think of them as spies or saboteurs).
+Variation of BITS BATTLE kata, the war has expanded and become dirtier and meaner; both even and odd numbers will fight with their pointy 1s. And negative integers are coming into play as well, with, ça va sans dire, a negative contribution (think of them as spies or saboteurs).
 
 A number's strength is determined by the number of set bits (1s) in its binary representation. Negative integers work against their own side so their strength is negative. For example -5 = -101 has strength -2 and +5 = +101 has strength +2.
 
@@ -115,3 +115,9 @@ var f = a.concat(b.filter(function(v){ return !(a.indexOf(v) > -1)}));
 >*Operations with arrays on op_arrays.js file*
 
 <br>
+
+### I love solving katas!
+
+<br/><br/>
+
+*Made by Monito Inc. 🙊*
